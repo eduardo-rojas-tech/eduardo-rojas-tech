@@ -6,7 +6,7 @@
   - [Introduction to Nuclear Engineering And Ionizing Radiation](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Engineering of Nuclear Systems]()
 - <b>Python</b>
-  - [IAEA Rector Physics with Python](https://github.com/eduardo-rojas-tech/IAEAIntrotoReactorPhysLab/blob/main/README.md)
+  - [IAEA Reactor Physics with Python](https://github.com/eduardo-rojas-tech/IAEAIntrotoReactorPhysLab/blob/main/README.md)
 
 <h2>🛠️ MBSE Demo Project</h2>
 
