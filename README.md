@@ -4,7 +4,6 @@
 
 - <b>MIT OpenCourseWare Projects</b>
   - [Introduction to Nuclear Engineering And Ionizing Radiation](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Engineering of Nuclear Systems]()
 - <b>Python</b>
   - [IAEA Reactor Physics with Python](https://github.com/eduardo-rojas-tech/IAEAIntrotoReactorPhysLab/blob/main/README.md)
 
