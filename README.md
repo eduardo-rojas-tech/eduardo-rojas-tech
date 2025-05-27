@@ -1,6 +1,6 @@
 <h1>Hi, I'm Eduardo! <br/><a href="https://github.com/joshmadakor1">Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/"> Aspiring Nuclear Energy Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Systems Thinker</a></h1>
 
-<h2>⚛️ Nuclear Systems Projects:</h2>
+<h2>⚛️ Nuclear Systems Self Study:</h2>
 
 - <b>MIT OpenCourseWare Projects</b>
   - [Introduction to Nuclear Engineering And Ionizing Radiation](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -8,7 +8,7 @@
 - <b>Python</b>
   - [IAEA Reactor Physics with Python](https://github.com/eduardo-rojas-tech/IAEAIntrotoReactorPhysLab/blob/main/README.md)
 
-<h2>🛠️ MBSE Demo Project</h2>
+<h2>🛠️ MBSE Self Study</h2>
 
 - [MBSE: Model-Based Systems Engineering](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
